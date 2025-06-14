@@ -24,9 +24,6 @@ To run both frontend and backend simultaneously:
 1. Make sure you have Node.js and npm installed
 2. From the root folder, run:
 
-```bash
-chmod +x run.sh
-./run.sh
 
 ## 👨‍💻 Creators
 
@@ -54,3 +51,7 @@ chmod +x run.sh
     </td>
   </tr>
 </table>
+
+```bash
+chmod +x run.sh
+./run.sh
