@@ -27,3 +27,30 @@ To run both frontend and backend simultaneously:
 ```bash
 chmod +x run.sh
 ./run.sh
+
+## 👨‍💻 Creators
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Creators/stefan.jpg" width="100px;" alt="Stefan Knežević"/>
+      <br />
+      <sub><b>Stefan Knežević</b></sub>
+    </td>
+    <td align="center">
+      <img src="Creators/IMG_6384.JPG" width="100px;" alt="Blažo Madžgalj"/>
+      <br />
+      <sub><b>Blažo Madžgalj</b></sub>
+    </td>
+    <td align="center">
+      <img src="Creators/IMG_7439.JPG" width="100px;" alt="Dragan Nedović"/>
+      <br />
+      <sub><b>Stefan Karišik</b></sub>
+    </td>
+    <td align="center">
+      <img src="Creators/PNG image-480F-AC58-5A-0.png" width="100px;" alt="Stefan Karišik"/>
+      <br />
+      <sub><b>Dragan Nedović</b></sub>
+    </td>
+  </tr>
+</table>
